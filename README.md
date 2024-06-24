@@ -1,5 +1,6 @@
 <div align="center">
 
+[![Open in Dev Container](https://img.shields.io/badge/devcontainer-open-blue?logo=visualstudiocode)](vscode://vscode-remote/clone?url=https://github.com/JojoRoro/lemmy.git)
 ![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/LemmyNet/lemmy.svg)
 [![Build Status](https://woodpecker.join-lemmy.org/api/badges/LemmyNet/lemmy/status.svg)](https://woodpecker.join-lemmy.org/LemmyNet/lemmy)
 [![GitHub issues](https://img.shields.io/github/issues-raw/LemmyNet/lemmy.svg)](https://github.com/LemmyNet/lemmy/issues)
@@ -89,7 +90,7 @@ Each Lemmy server can set its own moderation policy; appointing site-wide admins
   - User tagging using `@`, Community tagging using `!`.
   - Integrated image uploading in both posts and comments.
   - A post can consist of a title and any combination of self text, a URL, or nothing else.
-  - Notifications, on comment replies and when you're tagged.
+  - Notifications, on comment replies and when you're tagged. 
     - Notifications can be sent via email.
     - Private messaging support.
   - i18n / internationalization support.
