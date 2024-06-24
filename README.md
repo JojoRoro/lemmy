@@ -1,5 +1,5 @@
 <div align="center">
-[![Open in Dev Container]([http://weblate.join-lemmy.org/widgets/lemmy/-/lemmy/svg-badge.svg](https://img.shields.io/badge/devcontainer-open-blue?logo=visualstudiocode))](vscode://vscode-remote/clone?url=https://github.com/JojoRoro/lemmy.git)
+[![Open in Dev Container](https://img.shields.io/badge/devcontainer-open-blue?logo=visualstudiocode)](vscode://vscode-remote/clone?url=https://github.com/JojoRoro/lemmy.git)
 [![Open in Dev Container](https://img.shields.io/badge/devcontainer-open-blue?logo=visualstudiocode)](vscode://vscode-remote/clone?url=https://github.com/JojoRoro/lemmy.git)
 ![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/LemmyNet/lemmy.svg)
 [![Build Status](https://woodpecker.join-lemmy.org/api/badges/LemmyNet/lemmy/status.svg)](https://woodpecker.join-lemmy.org/LemmyNet/lemmy)
