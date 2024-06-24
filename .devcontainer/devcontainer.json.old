@@ -1,0 +1,25 @@
+{
+    "name": "Rust Development Container",
+    "image": "rust:latest",
+    "customizations": {
+        "vscode": {
+            "settings": {
+                // Updated setting for newer versions of VS Code
+                "terminal.integrated.defaultProfile.linux": "bash"
+            },
+            "extensions": [
+                // List of recommended extensions for Rust development
+                "rust-lang.rust-analyzer", // Corrected extension ID for rust-analyzer
+                // Add more extensions as needed
+            ]
+        }
+    },
+    "mounts": [
+        {
+            "source": "${localWorkspaceFolder}",
+            "target": "/workspace",
+            "type": "bind",
+            "consistency": "cached"
+        }
+    ]
+}
