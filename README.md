@@ -1,7 +1,7 @@
 <div align="center">
 
 [![Open in Dev Container](https://img.shields.io/badge/devcontainer-open-blue?logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/JojoRoro/lemmy)
-[![Open in Dev Container](https://img.shields.io/badge/devcontainer-open-blue?logo=visualstudiocode)](vscode://vscode-remote/clone?url=https://github.com/JojoRoro/lemmy.git)
+
 [![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/LemmyNet/lemmy.svg)](https://github.com/LemmyNet/lemmy)
 [![Build Status](https://woodpecker.join-lemmy.org/api/badges/LemmyNet/lemmy/status.svg)](https://woodpecker.join-lemmy.org/LemmyNet/lemmy)
 [![GitHub issues](https://img.shields.io/github/issues-raw/LemmyNet/lemmy.svg)](https://github.com/LemmyNet/lemmy/issues)
