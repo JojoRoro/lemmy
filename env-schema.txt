@@ -1,0 +1,8 @@
+# Environment Variables Schema
+
+
+# POSTGREROOT: This is the password for the postgresql root user.
+
+# Replace the example with your own variables.
+MY_VARIABLE: Description of my variable.
+ANOTHER_VARIABLE: Description of another variable.
